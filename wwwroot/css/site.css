@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: beige;
+}
+
+.project
+{
+  padding:10px;
+ 
+}
+.link
+{
+  color: #FF0000;
+  text-decoration:none;
+}
+.lead
+{
+text-align: center;
+font-size: x-large;
+}
+.name
+{
+  padding-bottom:15px;
+}
+
+.Head
+{
+  padding-bottom:15px;
+}
